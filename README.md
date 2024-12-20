@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Stephen Prahl Jr
 
 <div align="center">
   <img src="https://your-profile-image-url.com" alt="Your Name" width="200" style="border-radius: 50%;" />
