@@ -1,11 +1,10 @@
 # 👋 Hello, I'm Stephen Prahl Jr
 
-<!---<div align="center">
-  <img src="# 👋 Hello, I'm [Your Name]--->
-
+<!----
 <div align="center">
   <img src="https://your-profile-image-url.com" alt="Your Name" width="200" style="border-radius: 50%;" />
 </div>
+----->
 
 ## 🚀 Fullstack Developer | UI/UX Enthusiast | Tech Innovator
 
