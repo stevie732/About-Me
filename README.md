@@ -79,5 +79,3 @@ I'm always excited to collaborate on new projects or discuss the latest in tech.
 
 <div align="center">
   <i>⚡ "Code is poetry, and I'm here to write epics." ⚡</i>
-</div>" alt="Stephen Prahl" width="200" style="border-radius: 50%;" />
-</div>
