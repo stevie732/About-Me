@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Stephen Prahl Jr
+# 👋 Hello, I'm Stephen Prahl
 
 <!----
 <div align="center">
