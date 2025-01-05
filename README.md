@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen e
 ![ReactNative](https://img.shields.io/badge/-ReactNative-47A248?style=for-the-badge&logo=reactnative&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<i href='fas fa-react'></i>
+<a><i href='fas fa-react'></i></a>
 </div>
 
 ---
