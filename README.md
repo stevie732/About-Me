@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen e
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![ReactNative](https://img.shields.io/badge/-React Native-47A248?style=for-the-badge&logo=Reactnative&logoColor=white)
+![ReactNative](https://img.shields.io/badge/-Native-47A248?style=for-the-badge&logo=native&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
