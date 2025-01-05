@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen e
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <div 
-<a><i href='fas fa-react'></i></a>
+<a><i href='fa fa-react'></i></a>
 </div>
 </div>
 
